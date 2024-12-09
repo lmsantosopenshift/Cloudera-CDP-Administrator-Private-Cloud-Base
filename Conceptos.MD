@@ -22,3 +22,11 @@ Use automated OS deployment tools for commissioning many hosts (Kikstart Files)
 Use configuration management tools to manage the underlying OS (Ej Ansible)
 Use Cloudera Manager to install and manage cluster software
 ```
+
+### Adding a Cluster
+Adding a cluster consists of two steps:
+
+´´´
+Add a set of hosts and install Cloudera Runtime and the CM Agent
+Select and configure the services to run on the new cluster
+´´´
