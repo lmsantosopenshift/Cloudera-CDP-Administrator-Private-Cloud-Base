@@ -6,3 +6,9 @@ DH CLuster: refers to a workload cluster created and managed by Cloudera Data Hu
 DW (Data Warehouse) cluster refers to a cluster specifically designed for data warehousing workloads.
 ML (Machine Learning) cluster.
 ```
+
+### CDP Control Plane
+- Data Catalog
+- Replication Manager
+- Workload Manager
+- Management Console
