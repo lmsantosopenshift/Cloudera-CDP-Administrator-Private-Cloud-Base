@@ -460,7 +460,7 @@ We should increase our cluster size when there is a need to increase computation
 Removing a host from the cluster
 ------------------------------------
 
-We have to methods to perform this activity, both will decomission and delete host's role instances and remove managed service software, while preserving data directories.
+We have two methods to perform this activity, both will decomission and delete host's role instances and remove managed service software, while preserving data directories.
 
 -	Remove it from *Cluster option*
 	-	Keeps the host available to Cloudera Manager
