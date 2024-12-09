@@ -30,3 +30,9 @@ Adding a cluster consists of two steps:
 Add a set of hosts and install Cloudera Runtime and the CM Agent
 Select and configure the services to run on the new cluster
 ```
+### Stale Configurations
+```
+A modified configuration may require one or both of the following
+─ Client redeployment
+─ Role instance restart or refresh
+```
