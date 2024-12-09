@@ -8,7 +8,17 @@ ML (Machine Learning) cluster.
 ```
 
 ### CDP Control Plane
-- Data Catalog
-- Replication Manager
-- Workload Manager
-- Management Console
+```
+Data Catalog
+Replication Manager
+Workload Manager
+Management Console
+```
+### CDP Private Cloud Base Installation
+Managing Multiple Hosts in a Cluster
+
+```
+Use automated OS deployment tools for commissioning many hosts (Kikstart Files)
+Use configuration management tools to manage the underlying OS (Ej Ansible)
+Use Cloudera Manager to install and manage cluster software
+```
