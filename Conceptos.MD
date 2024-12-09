@@ -26,7 +26,7 @@ Use Cloudera Manager to install and manage cluster software
 ### Adding a Cluster
 Adding a cluster consists of two steps:
 
-´´´
+```
 Add a set of hosts and install Cloudera Runtime and the CM Agent
 Select and configure the services to run on the new cluster
-´´´
+```
