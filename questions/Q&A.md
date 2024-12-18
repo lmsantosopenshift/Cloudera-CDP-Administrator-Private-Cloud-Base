@@ -450,7 +450,7 @@
 	-	**Ans:**
 		-	NodeManager
 		-	Impalad	
-		-	Zookeeper
+		-	Zookeeper (MAL)
 		
 36.	**Metrics are available on?**
 	-	**Ans:** Hosts, services, roles and instances.
@@ -458,16 +458,16 @@
 36.	**What roles you need for HDFS HA?**
 	-	**Ans:** 
 		-	Journal
-		-	Failover Controllers
+		-	Failover Controllers (???)
 		-	NameNode (Active)
 		-	NameNode (Standby)
 		
 36.	**What evaluates the Host Inspector?**
 	-	**Ans:**
-		-	Validates OS Settings
+		-	Validates OS Settings (?)
 		-	Networking Settings
 		-	System Time
-		-	User and Group Settings
+		-	User and Group Settings (???)
 
 36.	**what are the Ranger Audit Tabs?**
 	-	**Ans:**
@@ -491,7 +491,7 @@
 
 36.	**What options do you have in HDFS File Browser?**
 	-	**Ans:**
-		-	Utilization Report
+		-	Utilization Report (??)
 		-	Storage Quotas
 		-	Snapshot Management
 			
